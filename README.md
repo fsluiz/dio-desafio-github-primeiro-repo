@@ -1,2 +1,7 @@
-# dio-desafio-github-primeiro-repo
-DIO Desafio de Projeto Git-GitHub 
+# Desafio de Projeto sobre Git-GitHub da DIO
+Repositiorio criado para o desafio de projeto
+
+## Notas de aula
+
+Notas de comandos de Git/GitHub
+
